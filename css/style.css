@@ -1,5 +1,24 @@
 body {
     margin: 0px;
-    padding: 0px;
+    padding: 60px;
     background-color: azure;
+    font-family: 'Roboto', Courier, monospace;
+    font-size: 1.3rem;
+}
+
+.main-title {
+    padding: 0px;
+    margin: 0px;
+    color: rgba(4, 70, 48, 0.795);
+    font-size: 48px;
+}
+
+.secundady-title {
+    color: rgba(3, 145, 97, 0.678);
+    font-size: "Roboto";
+}
+
+p {
+    padding: auto;
+    margin-top: 4px;
 }
